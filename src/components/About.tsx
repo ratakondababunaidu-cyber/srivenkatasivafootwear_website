@@ -65,7 +65,7 @@ export default function About() {
             </div>
 
             <div>
-              <p className="text-3xl font-black italic text-zinc-900">5K+</p>
+              <p className="text-3xl font-black italic text-zinc-900">25k+</p>
               <p className="text-[10px] uppercase tracking-widest text-zinc-500 font-bold">
                 Happy Customers
               </p>

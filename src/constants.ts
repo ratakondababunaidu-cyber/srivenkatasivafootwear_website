@@ -13,7 +13,7 @@ export interface Product {
 // IMPORT IMAGES
 import sparxImg from "./images/sparx.webp";
 import campusImg from "./images/campus.webp";
-import redfordImg from "./images/redford.webp";
+import redfordImg from "./images/redford1.jpeg";
 import medifeeImg from "./images/medifee.webp";
 import wingerImg from "./images//winger.jpg";
 import walkarooImg from "./images/walkaro.webp";
@@ -22,6 +22,7 @@ import hoovesImg from "./images/hooves.jpg";
 import columbusImg from "./images/columbus.jpg";
 import orthocareImg from "./images/orthocare.webp";
 import edgeImg from "./images/edge.jpg";
+import sparxwomen from "./images/sparxwomen.jpeg"
 
 // PRODUCT DATA
 export const PRODUCTS: Product[] = [
@@ -122,6 +123,15 @@ export const PRODUCTS: Product[] = [
     price: 2199,
     color: "from-slate-600 to-slate-800",
     image: edgeImg,
+    description: "Modern and edgy footwear designs.",
+  },
+   {
+    id: 12,
+    name: "SPARX",
+    category: "Lifestyle women Footwear",
+    price: 2199,
+    color: "from-slate-600 to-slate-800",
+    image: sparxwomen,
     description: "Modern and edgy footwear designs.",
   },
 ];

@@ -128,7 +128,7 @@ export default function Home() {
 
               <div className="ml-6">
                 <span className="text-sm font-bold text-zinc-900">
-                  5K+ Happy Customers
+                  25k+ Happy Customers
                 </span>
               </div>
             </div>
