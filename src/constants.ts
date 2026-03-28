@@ -24,7 +24,7 @@ import columbusImg from "./images/columbus.jpg";
 import orthocareImg from "./images/orthocare.webp";
 import edgeImg from "./images/edge.jpg";
 import sparxwomen from "./images/sparxwomen.jpeg"
-import mint from "./images/mint.webp"
+import mint from "./images/mint.jpeg"
 import zm from "./images/zm.jpeg"
 
 // PRODUCT DATA

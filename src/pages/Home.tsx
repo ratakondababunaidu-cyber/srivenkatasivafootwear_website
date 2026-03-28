@@ -14,7 +14,7 @@ import formal from '../images/formal.avif';
 
 const BRANDS = [
   "SPARX", "CAMPUS", "REDFORD", "MEDIFEE", "WINGER",
-  "WALKAROO", "PARAGON", "HOOVES", "COLUMBUS", "ORTHOCARE", "EDGE"
+  "WALKAROO", "PARAGON", "HOOVES", "COLUMBUS", "ORTHOCARE", "EDGE", "MINT", "ZM", "HYBEC", "INBLU", "AEROWALK"
 ];
 
 const CATEGORIES = [
