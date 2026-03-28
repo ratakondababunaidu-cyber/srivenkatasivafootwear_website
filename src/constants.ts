@@ -14,15 +14,18 @@ export interface Product {
 import sparxImg from "./images/sparx.webp";
 import campusImg from "./images/campus.webp";
 import redfordImg from "./images/redford1.jpeg";
-import medifeeImg from "./images/medifee.webp";
-import wingerImg from "./images//winger.jpg";
+import medifeeImg from "./images/medifee.jpeg";
+import medifeeladiesImg from "./images/medifeeladies.jpeg";
+import wingerImg from "./images//winger.jpeg";
 import walkarooImg from "./images/walkaro.webp";
 import paragonImg from "./images/paragon.jpg";
-import hoovesImg from "./images/hooves.jpg";
+import hoovesImg from "./images/hovves.jpg";
 import columbusImg from "./images/columbus.jpg";
 import orthocareImg from "./images/orthocare.webp";
 import edgeImg from "./images/edge.jpg";
 import sparxwomen from "./images/sparxwomen.jpeg"
+import mint from "./images/mint.webp"
+import zm from "./images/zm.jpeg"
 
 // PRODUCT DATA
 export const PRODUCTS: Product[] = [
@@ -133,5 +136,32 @@ export const PRODUCTS: Product[] = [
     color: "from-slate-600 to-slate-800",
     image: sparxwomen,
     description: "Modern and edgy footwear designs.",
+  },
+   {
+    id: 13,
+    name: "MEDIFEE",
+    category: "Lifestyle Ladies Footwear",
+    price: 1299,
+    color: "from-blue-400 to-blue-600",
+    image: medifeeladiesImg,
+    description: "Medical comfort footwear with ergonomic design.",
+  },
+  {
+    id: 14,
+    name: "MINT",
+    category: "Lifestyle Ladies Footwear",
+    price: 1299,
+    color: "from-blue-400 to-blue-600",
+    image: mint,
+    description: "Mint footwear Women Flats Sandal.",
+  },
+   {
+    id: 15,
+    name: "ZM",
+    category: "Lifestyle Ladies Footwear",
+    price: 1299,
+    color: "from-blue-400 to-blue-600",
+    image: zm,
+    description: "ZM footwear Women Flats Sandal.",
   },
 ];
