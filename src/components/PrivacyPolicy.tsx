@@ -11,13 +11,13 @@ export default function PrivacyPolicy() {
       {/* Content */}
       <div className="max-w-5xl mx-auto space-y-6 text-zinc-700 text-sm md:text-base leading-7">
         <p>
-          KK GOLD. (“we” or “us” or “our”) respects the privacy of our users
-          (“user” or “you”). We make every effort to treat your personal
-          information as safely and securely as reasonably possible. This
-          Privacy Policy explains how we collect, use, disclose, and safeguard
-          you. Please read the following privacy policy to understand better how
-          your personal information may be collected and used as you access
-          various areas of our application.
+          SRI VENKATA SIVA FOOTWEAR. (“we” or “us” or “our”) respects the
+          privacy of our users (“user” or “you”). We make every effort to treat
+          your personal information as safely and securely as reasonably
+          possible. This Privacy Policy explains how we collect, use, disclose,
+          and safeguard you. Please read the following privacy policy to
+          understand better how your personal information may be collected and
+          used as you access various areas of our application.
         </p>
 
         <p className="font-semibold text-black">
