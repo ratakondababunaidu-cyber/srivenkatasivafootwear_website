@@ -21,6 +21,7 @@ import slippers from "../images/slippers.avif";
 import formal from "../images/formal.avif";
 import PrivacyPolicy from "../components/PrivacyPolicy";
 import TermsAndConditions from "../components/TermsAndConditions";
+import Founders from "../components/Founders";
 
 const BRANDS = [
   "SPARX",
@@ -248,6 +249,7 @@ export default function Home() {
       <About />
       <CollectionsPreview />
       <Testimonials />
+      <Founders />
       <Contact />
       <PrivacyPolicy />
       <TermsAndConditions />
